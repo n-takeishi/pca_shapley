@@ -31,4 +31,4 @@ though the approach there is slightly different.
 ## Author
 
 Naoya Takeishi
-https://www.naoyatakeishi.com/
+https://ntake.jp/
